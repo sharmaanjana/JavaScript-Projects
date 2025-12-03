@@ -13,4 +13,4 @@ This repository contains my JavaScript assignments for the course.
 - /img/ (images folder)
 
 ## Live Website URL
-(Your GitHub Pages link will go here)
+ https://sharmaanjana.github.io/JavaScript-Projects/
